@@ -1,4 +1,8 @@
 body{
     background-color: rgb(228, 133, 174);
     font-style: italic;
+    font-size:large;
+}
+h3{
+    font-display:initial
 }
